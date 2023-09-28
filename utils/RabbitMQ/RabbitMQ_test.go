@@ -2,7 +2,7 @@ package rabbitConfig
 
 import (
 	"flag"
-	"github.com/jroden2/backend_assignments/assignment_01/commonCore/utils"
+	"github.com/jroden2/commonCore/utils"
 	"github.com/rs/zerolog"
 	"os"
 	"path"

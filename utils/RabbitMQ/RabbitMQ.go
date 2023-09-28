@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/jroden2/backend_assignments/assignment_01/commonCore/utils"
+	"github.com/jroden2/commonCore/utils"
 	"os"
 	"strings"
 	"time"
